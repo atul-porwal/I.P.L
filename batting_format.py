@@ -156,27 +156,4 @@ def chose_team():
 	my_team(Your_Team_players,dic)
 	
 chose_team()
-# select=input('select team:')
-# if select=='ind':
-# 	user_team=Team1
-# 	opponent_team=Team2
-# else:
-# 	user_team=Team2
-# 	opponent_team=Team1
-# print("What would like to batt/ball:")
-# user=input()
-# if user=='bat':
-# 	a=batting(user_team,opponent_team)
-# 	b=bolling(user_team,opponent_team)
-# 	if a>b:
-# 		print("You Won")
-# 	else:
-# 		print("You Lost")
-# else:
-# 	a=bolling(user_team,opponent_team)
-# 	b=batting(user_team,opponent_team)
-# 	if a>b:
-# 		print("you won")
-# 	else:
-# 		print('you lost')		
 
